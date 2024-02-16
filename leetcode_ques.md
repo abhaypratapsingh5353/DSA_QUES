@@ -4,4 +4,4 @@
 4. https://leetcode.com/problems/count-items-matching-a-rule/description/ (13/02/2024)
 5. https://leetcode.com/problems/minimum-number-game/description/ (14/02/2024)
 6. https://leetcode.com/problems/find-the-highest-altitude/description/ (15/02/2024)
-7. https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/description/ (16/02/2024)
+7. https://leetcode.com/problems/count-good-triplets/description/ (16/02/2024)
