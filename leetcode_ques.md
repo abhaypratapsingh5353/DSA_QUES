@@ -7,3 +7,4 @@
 7. https://leetcode.com/problems/count-good-triplets/description/
 8. https://leetcode.com/problems/largest-local-values-in-a-matrix/description/
 9. https://leetcode.com/problems/maximum-product-difference-between-two-pairs/description/
+10. https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
