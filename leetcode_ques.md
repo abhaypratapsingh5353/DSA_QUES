@@ -11,3 +11,4 @@
 11. https://leetcode.com/problems/destination-city/description/
 12. https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range/description/
 13. https://leetcode.com/problems/sum-of-unique-elements/description/
+14. https://leetcode.com/problems/smallest-index-with-equal-value/description/
