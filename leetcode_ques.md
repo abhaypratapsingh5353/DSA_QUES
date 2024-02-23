@@ -12,3 +12,4 @@
 12. https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range/description/
 13. https://leetcode.com/problems/sum-of-unique-elements/description/
 14. https://leetcode.com/problems/smallest-index-with-equal-value/description/
+15. https://leetcode.com/problems/plus-one/description/
